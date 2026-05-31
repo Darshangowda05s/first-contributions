@@ -774,6 +774,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Sumit Kumar](https://github.com/stevedav131207-cell)
 - [Sumit Sourabh](https://github.com/Sumit-sourabh45)
 - [SungHo.You](https://github.com/hahaysh)
+- [Darshan Gowda](https://github.com/Darshangowda05s)
 - [Suraj](https://github.com/surajrastogi1)
 - [Surya](https://github.com/GSuryaP)
 - [Sushit Lal Pakrashy](https://github.com/
